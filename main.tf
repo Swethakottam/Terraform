@@ -11,7 +11,7 @@ terraform {
 provider "okta" {
   org_name  = "dev-221567"
   base_url  = "okta.com"
-  api_token = "00etsh9A6cqrpf_KAt6EBWN-QgDbdvtuKcTRPXtWcy"
+  api_token = "************"
 }
 
 #Create user
